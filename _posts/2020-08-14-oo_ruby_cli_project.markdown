@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "OO Ruby CLI Project"
-date:       2020-08-14 15:55:41 +0000
+date:       2020-08-14 11:55:41 -0400
 permalink:  oo_ruby_cli_project
 ---
 
