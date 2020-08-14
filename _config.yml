@@ -1,11 +1,11 @@
 # Site settings
-author: Thomas John Helin
-title: 
+author: Thomas Helin
+title: OO Ruby CLI Project
 header-img: img/home-bg.png
 email: thomashelin@yahoo.com
-copyright_name: Thomas John Helin
+copyright_name: Thomas Helin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Gem's Creation
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  torpedo-t
